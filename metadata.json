@@ -1,0 +1,6 @@
+{
+  "name": "StartupPlatform - Software Development & Freelance Marketplace",
+  "description": "The enterprise ecosystem bridging high-performance software engineering teams and elite freelance talent for scalable digital solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
